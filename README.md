@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6e64b8f7-82f5-47e5-9319-e2e69ca6f56d/d9dccma-c226b152-ad6f-421b-a725-ee544fb5aacc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlNjRiOGY3LTgyZjUtNDdlNS05MzE5LWUyZTY5Y2E2ZjU2ZFwvZDlkY2NtYS1jMjI2YjE1Mi1hZDZmLTQyMWItYTcyNS1lZTU0NGZiNWFhY2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PnHWTOy92lMm4ouq1ivJF6qputo1O00JewhV4LgGifc"  />
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
   <img width="12" />
@@ -63,12 +59,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/artur0527rg/artur0527rg/output/snake.svg" alt="Snake animation" />
 
 ###
 
