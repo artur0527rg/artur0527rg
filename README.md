@@ -1,12 +1,5 @@
 <h3 align="left">Hi 👋! My name is Artur, and I am a beginner Backend Developer.</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artur0527rg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false" height="160" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
