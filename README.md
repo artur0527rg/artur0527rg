@@ -6,7 +6,7 @@
 ### <div align="center">I'm Artur, a Python backend developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Aiogram
+- 🌱 I’m currently learning Frontend
   
 
 <br/>  
